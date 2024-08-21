@@ -1,0 +1,22 @@
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #b11a1a;
+    color: azure;
+    text-align: center;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #b11a1a;
+    line-height: 130%;
+}
